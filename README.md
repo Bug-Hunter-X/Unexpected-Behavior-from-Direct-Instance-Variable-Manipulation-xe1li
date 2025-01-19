@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in Ruby related to direct manipulation of instance variables outside of the class's methods.  Direct access can violate encapsulation and lead to unpredictable results. The solution shows how to use accessor methods to maintain the class's integrity and improve code clarity.
